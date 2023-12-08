@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danial-ismail&label=Profile%20views&color=0e75b6&style=flat" alt="danial-ismail" /> </p>
 
-- 🌱 I’m currently learning **PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://danial-portfolio3.netlify.app/](https://danial-portfolio3.netlify.app/)
 
